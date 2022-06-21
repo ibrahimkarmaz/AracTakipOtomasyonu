@@ -1,0 +1,205 @@
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.giris_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_ol.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_durumu_sorgulama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.hesap_guvenlik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parolami_unuttum.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ana_pencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.oneri_hata_bildirimi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemini_teslim_al_veya_iptal_et.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arsiv_liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.istatistik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.program_detaylari.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ozellestir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.profil_bilgilerini_degistir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parola_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.admin_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.bekleyen_onay_listesi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.personel_yetkileri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.iki_tarih_arasi_hesaplama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ogretici.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.yardim_pencersi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.admin_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ana_pencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arsiv_liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.bekleyen_onay_listesi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.giris_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.hesap_guvenlik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.iki_tarih_arasi_hesaplama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.istatistik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemini_teslim_al_veya_iptal_et.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ogretici.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.oneri_hata_bildirimi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ozellestir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parolami_unuttum.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parola_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.personel_yetkileri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.profil_bilgilerini_degistir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.program_detaylari.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_durumu_sorgulama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_ol.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.yardim_pencersi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\ako_saf_kod\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.admin_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ana_pencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arsiv_liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.bekleyen_onay_listesi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.giris_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.hesap_guvenlik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.iki_tarih_arasi_hesaplama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.istatistik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemini_teslim_al_veya_iptal_et.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ogretici.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.oneri_hata_bildirimi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ozellestir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parolami_unuttum.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parola_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.personel_yetkileri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.profil_bilgilerini_degistir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.program_detaylari.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_durumu_sorgulama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_ol.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.yardim_pencersi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO AÇIKLAMALI KODLAR\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.admin_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ana_pencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arsiv_liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.bekleyen_onay_listesi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.giris_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.hesap_guvenlik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.iki_tarih_arasi_hesaplama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.istatistik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemini_teslim_al_veya_iptal_et.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ogretici.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.oneri_hata_bildirimi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ozellestir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parolami_unuttum.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parola_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.personel_yetkileri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.profil_bilgilerini_degistir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.program_detaylari.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_durumu_sorgulama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_ol.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.yardim_pencersi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\182105041 İBRAHİM KARMAZ\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.admin_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ana_pencere.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arac_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.arsiv_liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.bekleyen_onay_listesi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.giris_penceresi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.hesap_guvenlik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.iki_tarih_arasi_hesaplama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.istatistik.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemini_teslim_al_veya_iptal_et.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.kiralama_islemleri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.liste_formu.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_arama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_cikar.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_duzenle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.musteri_ekle.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ogretici.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.oneri_hata_bildirimi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.ozellestir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parolami_unuttum.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.parola_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.personel_yetkileri.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.profil_bilgilerini_degistir.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.program_detaylari.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_durumu_sorgulama.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_ol.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.uye_yenile.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.yardim_pencersi.resources
+C:\Users\ibrah\OneDrive\Masaüstü\a\1-Proje, Veritabani Ve Kullanım Videoları\2-AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\AKO.csproj.GenerateResource.Cache

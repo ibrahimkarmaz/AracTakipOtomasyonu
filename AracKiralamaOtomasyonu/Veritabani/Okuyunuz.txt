@@ -1,0 +1,12 @@
+Veritabanı uzantı olarak alınmıştır.
+Veritabanınızın kaydedildiği adresi bulunup oraya kopyalanması veya taşınması gerekmektedir.
+
+Veritabanlarinin bulunuduğu adresleri verir.(YENİ KODA YAZIN.)
+SELECT name, physical_name AS db_file_location FROM sys.master_files
+
+Görev Yöneticisi--> Hizmetler-->MSSSQLSERVER'I Durdurmayı unutmayınız.
+
+Bunun dışında program direk veritabanına bağlanamaz benim veritabanı adresime bağlantı sağlıyor
+programa(MS İLE PROJEYİ AÇIP) giderek herhangi bir sayfada Veritabanı adınızı değiştirin ve Bütün pencerelere uygulatınız.
+
+Tüm Pencerelere Uygulatma Anlatim Linki:https://docs.microsoft.com/tr-tr/visualstudio/ide/finding-and-replacing-text?view=vs-2019

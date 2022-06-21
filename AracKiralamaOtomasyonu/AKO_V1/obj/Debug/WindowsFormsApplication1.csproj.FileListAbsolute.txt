@@ -1,0 +1,12 @@
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AKO_V1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\ibrah\OneDrive\Masaüstü\AracKiralamaOtomasyonu_v1\AKO_V1\obj\Debug\WindowsFormsApplication1.pdb
